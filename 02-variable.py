@@ -4,4 +4,4 @@ b  = 19
 ab = a+b
 
 # Printing Variable
-Print("Result",ab)
+print("Result",ab)
